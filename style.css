@@ -1,0 +1,27 @@
+*{ box-sizing: border-box;
+border: 1px solid red;
+
+}
+.top-page{
+    position: relative;
+}
+header ul{
+    position: absolute;
+    right: 100px;
+
+}
+
+header ul li{
+    display: inline;
+    position: relative ;
+    right: 1px;
+    
+
+
+}
+main{ viewport-fit: 80vw;
+
+}
+footer{
+
+}
